@@ -1,0 +1,10 @@
+* clavatar
+
+Determine URL of an avatar (e.g., gravatar, libravatar, unicornify) by identifier (e-mail address, OpenID URL)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pinterface/clavatar.git   |
+| commit  | 970d01f  |
+| systems | clavatar |
+|---------+-------------------------------------------|
+
